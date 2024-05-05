@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oba-nijesu
-- 👀 I’m a Data Analyst 
-- 🌱 I’m currently working on Data Visualization
-- 💞️ I’m looking to collaborate on Data Analysis works
+- 👀 I’m a Data Scientist/Predictive Ml Specialist 
+- 🌱 I’m currently working on projects to perfect my resume
+- 💞️ I’m looking to work with companies on their projects and derive insights in data to make life easier.
 - 📫 How to reach me @adeyemoobanijesu@gmail.com
 
 <!---
